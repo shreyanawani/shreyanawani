@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreya Nawani.
-- 👀 I’m interested in Web Development and Machine Learning.
-- 🌱 I’m currently learning Front-end development.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Back-end development.
 - 💞️ I’m looking to contribute on open-source.
 - 📫 You can find me on linkedin https://www.linkedin.com/in/shreya-nawani-46163a19b/
 
